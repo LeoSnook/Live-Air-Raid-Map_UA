@@ -29,3 +29,8 @@ The purpose of this document it to record actions or decisions made throughout t
 - Wrote Architecture.md
 - Wrote README.md
 - Created GitHub repository
+
+**2026-07-19**
+- Added WiFiDetails.h to act as a placeholder for my internet SSID and password.
+- Updated .gitignore to ignore WiFiDetails.h.
+- Started writing program files.
